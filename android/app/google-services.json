@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1031633765717",
+    "project_id": "taskshome-afbc1",
+    "storage_bucket": "taskshome-afbc1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031633765717:android:f114ad2d0b29d095185bdc",
+        "android_client_info": {
+          "package_name": "com.monky.dev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-AlRLc0v7TZO3vdw3e8cZyYXxsvnKvDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
